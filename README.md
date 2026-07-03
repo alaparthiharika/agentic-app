@@ -1,0 +1,2 @@
+# agentic-app
+autonomous agent
